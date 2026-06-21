@@ -1,0 +1,6 @@
+{
+  "name": "Resoleution",
+  "description": "Professional climbing and bouldering shoe resoling platform. Upload photos for expert wear assessment, approve quotes, and track shoe repair stages in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
